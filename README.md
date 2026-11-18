@@ -1,5 +1,7 @@
 # HubSpot Deal Approval & Stage Gate Auditor CLI
 
+[![CI](https://github.com/smartprov05/hubspot-deal-approval-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/smartprov05/hubspot-deal-approval-auditor/actions/workflows/ci.yml)
+
 A lightweight, zero-dependency command-line utility to audit HubSpot CRM sales pipelines for unapproved discounts, missing stage sign-offs, and high-value deals sitting in late-stage gates without management oversight.
 
 Built for RevOps leads, Sales Directors, and Deal Desk managers.
